@@ -31,6 +31,6 @@ Evaluation: Assessing the model using R-squared (R²) and Mean Absolute Error (M
 📈 Results
 The model successfully predicts insurance costs with promising accuracy.
 
-R-squared Score: [اضف نسبتك هنا مثلا 0.75]
+R-squared Score: 78.36%
 
 Key Insight: Smoking status was found to be the most significant factor influencing insurance costs.
